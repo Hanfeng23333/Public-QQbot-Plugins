@@ -1,2 +1,11 @@
-# Public-QQbot-Plugins
-A public repository for the qq bot plugins
+# QQ机器人插件仓库
+现在内卷群的机器人支持第三方插件了😀
+
+
+# 如何提交你的插件
+1. fork这个仓库
+2. 添加你的插件
+3. 提交pull request
+4. 等待审核
+
+注：审核通过后，QQ机器人会自动进行热重载
